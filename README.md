@@ -27,7 +27,7 @@
 
 [本程序所有历史训练数据](https://github.com/MirstT/Colab_Cifar10_Image-recognition.git)
 
-## 打印Colab目前连接使用的机器（GPU）信息。
+## 打印Colab目前连接使用的机器（GPU）信息.
 
 
 
